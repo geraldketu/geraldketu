@@ -1,1 +1,8 @@
-<h2 align="center">Hello, <a href="https://github.com/geraldketu" title="Profile">I'm Gerald</a> 👋</h2> <p align="center"> I'm a student at the University of Maryland, Baltimore County, pursuing a Bachelor of Science in Computer Science. <br> My academic and professional interests are centered around data science, machine learning, and innovative AI-driven solutions.<br> Welcome to my GitHub! Here, you’ll find projects and repositories that showcase my journey in solving real-world problems with data-driven approaches.<br> Feel free to connect with me and explore my work. </p> <br> <p align="center"> 📫 How to reach me: </p> <div align='center'> <a href="https://www.linkedin.com/in/gerald-ndawula"> <img src="icons/linkedin.svg" alt="LinkedIn" height="25" width='25' /> </a> <a href="mailto:geraldndawula22@gmail.com"> <img src="icons/gmail.svg" alt="Gmail" height="25" width='25' /> </div>
+<h2 align="center">Hello, I'm Gerald Ndawula 👋</h2>
+<p align="center">
+  I’m a Master of Science student in Computer Science at the University of Maryland, Baltimore County (UMBC).<br>
+  I’m passionate about data science and its applications, and I’m open to new opportunities.<br>
+  Feel free to connect with me:  
+  <a href="https://www.linkedin.com/in/gerald-ndawula">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:geraldndawula22@gmail.com">Email</a>
+</p>
